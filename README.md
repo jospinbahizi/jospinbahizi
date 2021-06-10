@@ -9,9 +9,6 @@
 
 ---
 
-<a href="https://github.com/jospinbahizi" align="right">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jospinbahizi&langs_count=10&theme=gotham&hide_border=true)](https://github.com/jospinbahizi/github-readme-stats)
-</a>
 
 <a href="https://github.com/jospinbahizi">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jospinbahizi&show_icons=true&hide_border=true&theme=gotham&inlude_all_commits=true&count_private=true&show_owner=true" />
@@ -21,8 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jospinbahizi&langs_count=10&theme=gotham&hide_border=true)](https://github.com/jospinbahizi/github-readme-stats)
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jospinbahizi&show_icons=true&hide_border=true&theme=gotham&inlude_all_commits=true&count_private=true&show_owner=true" />
 
 
 [twitter]: https://twitter.com/jospinrugamba
