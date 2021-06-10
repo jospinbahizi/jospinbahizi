@@ -18,6 +18,6 @@
 
 
 [twitter]: https://twitter.com/jospinrugamba
-[linkedin]: https://linkedin.com/jospinbahizi
+[linkedin]: https://linkedin.com/in/jospinbahizi
 
 
