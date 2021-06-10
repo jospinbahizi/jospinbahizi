@@ -9,12 +9,9 @@
 
 ---
 
-
 <a href="https://github.com/jospinbahizi">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=jospinbahizi&show_icons=true&hide_border=true&theme=gotham&inlude_all_commits=true&count_private=true&show_owner=true" />
 </a>
-
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jospinbahizi&langs_count=10&theme=gotham&hide_border=true)](https://github.com/jospinbahizi/github-readme-stats)
 
