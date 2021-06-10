@@ -3,8 +3,8 @@
 #### Software developer focusing on frontend and UI/UX development with advanced hands-on experience in designing and developing intuitive user interfaces. Committed to developing secure and enjoyable applications that add value to business operations.
 
 
-[<img align="left" alt="Jospin Rugamba Bahizi | Twitter" width="20px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp;[<img align="left" alt="Jospin Rugamba Bahizi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+[<img align="left" alt="Jospin Rugamba Bahizi | Twitter" width="20px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="Jospin Rugamba Bahizi | LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 <br>
 
 ---
