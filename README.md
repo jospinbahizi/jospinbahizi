@@ -16,8 +16,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jospinbahizi&langs_count=10&theme=nord&hide_border=true)](https://github.com/jospinbahizi)
 
 
-
 [twitter]: https://twitter.com/jospinrugamba
 [linkedin]: https://linkedin.com/in/jospinbahizi
-
-
