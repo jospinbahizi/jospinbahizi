@@ -1,8 +1,11 @@
-## Hi there, I am [Jospin Rugamba Bahizi](https://rugamba.xyz)
+## Hi there, I am Jospin Rugamba Bahizi
 
-[![image](https://img.shields.io/badge/LinkedIn-333c42?style=for-the-badge&logo=linkedin&logoColor=e1ff01)](https://www.linkedin.com/in/jospinbahizi/)
-[![image](https://img.shields.io/badge/Twitter-333c42?style=for-the-badge&logo=twitter&logoColor=e1ff01)](https://twitter.com/jospinbahizi)
+[![image](https://img.shields.io/badge/Website-333c42?style=for-the-badge&logo=medium&logoColor=e1ff01&textColor=e1ff01)](https://rugamba.xyz)
 [![image](https://img.shields.io/badge/Gmail-333c42?style=for-the-badge&logo=gmail&logoColor=e1ff01)](mailto:rugambajospin@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-333c42?style=for-the-badge&logo=linkedin&logoColor=e1ff01)](https://www.linkedin.com/in/jospinbahizi/)
+[![image](https://img.shields.io/badge/Instagram-333c42?style=for-the-badge&logo=instagram&logoColor=e1ff01)](https://www.instagram.com/rugamba.jpeg/)
+[![image](https://img.shields.io/badge/Twitter-333c42?style=for-the-badge&logo=twitter&logoColor=e1ff01)](https://twitter.com/jospinbahizi)
+
 
 Software developer with advanced hands-on experience in designing and developing intuitive user interfaces. Committed to developing secure and enjoyable applications that add value to business operations.
 
@@ -10,18 +13,16 @@ Software developer with advanced hands-on experience in designing and developing
 🌱 Researching on opportunities in smart road traffic crashes management & transportation systems [<small>@</small>AutoRTC-DMS](http://autortc.rw/) <br>
 👯 Casually working on some cool stuff with cool people [<small>@</small>rootbit](http://rootbit.rw)
 
-### 🚀 &nbsp; GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jospinbahizi&layout=compact&show_icons=true&hide_border=true&theme=nord&inlude_all_commits=true&count_private=true&show_owner=true" width="330">
-<img src="https://github-readme-stats.vercel.app/api?username=jospinbahizi&show_icons=true&hide_border=true&theme=nord&inlude_all_commits=true&count_private=true&show_owner=true" width="330">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jospinbahizi&show_icons=true&hide_border=true&theme=nord&inlude_all_commits=true&count_private=true&show_owner=true" width="330">
-
+## 🚀 &nbsp; GitHub Stats 
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=jospinbahizi&show_icons=true&hide_border=true&theme=nord&inlude_all_commits=true&count_private=true&show_owner=true&bg_color=333c42&title_color=e1ff01&icon_color=e1ff01&border_radius=4.5" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jospinbahizi&layout=compact&show_icons=true&hide_border=true&theme=nord&inlude_all_commits=true&count_private=true&show_owner=true&size_weight=0&count_weight=1&bg_color=333c42&title_color=e1ff01&icon_color=e1ff01&border_radius=4.5" height="150">
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-
-### 🛠 &nbsp;Languages &amp; Tools
-
+## 🛠 &nbsp;Languages &amp; Tools
 ![Python Badge](https://img.shields.io/badge/Python-333C42?logo=python&logoColor=e1ff01&style=flat)&nbsp;
 ![Django Badge](https://img.shields.io/badge/Django-333C42?logo=django&logoColor=e1ff01&style=flat)&nbsp;
 ![FastAPI Badge](https://img.shields.io/badge/FastAPI-333C42?logo=fastapi&logoColor=e1ff01&style=flat)&nbsp;
@@ -37,7 +38,7 @@ Software developer with advanced hands-on experience in designing and developing
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-333C42?logo=html5&logoColor=e1ff01&style=flat)&nbsp;
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-333C42?logo=css3&logoColor=e1ff01&style=flat)&nbsp;
 ![JSON Badge](https://img.shields.io/badge/JSON-333C42?logo=json&logoColor=e1ff01&style=flat)&nbsp;
-![.ENV Badge](https://img.shields.io/badge/.ENV-333C42?logo=dotenv&logoColor=000&style=flat)&nbsp;
+![.ENV Badge](https://img.shields.io/badge/.ENV-333C42?logo=dotenv&logoColor=e1ff01&style=flat)&nbsp;
 ![Git Badge](https://img.shields.io/badge/Git-333C42?logo=git&logoColor=e1ff01&style=flat)&nbsp;
 ![GitHub Badge](https://img.shields.io/badge/GitHub-333C42?logo=github&logoColor=e1ff01&style=flat)&nbsp;
 ![Amazon AWS Badge](https://img.shields.io/badge/Amazon%20AWS-333C42?logo=amazonaws&logoColor=e1ff01&style=flat)&nbsp;
