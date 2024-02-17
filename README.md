@@ -11,7 +11,7 @@ Software developer with advanced hands-on experience in designing and developing
 
 🔭 Currently working as a fulltime Junior AI Engineer [<small>@</small>truststamp](https://truststamp.net) <br>
 🌱 Researching on opportunities in smart road traffic crashes management & transportation systems [<small>@</small>AutoRTC-DMS](http://autortc.rw/) <br>
-👯 Casually working on some cool stuff with cool people [<small>@</small>rootbit](http://rootbit.rw)
+👯 Casually working on some projects with [<small>@</small>rootbit](http://rootbit.rw)
 
 ## 🚀 &nbsp; GitHub Stats 
 <div>
