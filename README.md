@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/Gmail-333c42?style=for-the-badge&logo=gmail&logoColor=e1ff01)](mailto:rugambajospin@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-333c42?style=for-the-badge&logo=linkedin&logoColor=e1ff01)](https://www.linkedin.com/in/jospinbahizi/)
 [![image](https://img.shields.io/badge/Instagram-333c42?style=for-the-badge&logo=instagram&logoColor=e1ff01)](https://www.instagram.com/rugamba.jpeg/)
-[![image](https://img.shields.io/badge/Twitter-333c42?style=for-the-badge&logo=twitter&logoColor=e1ff01)](https://twitter.com/jospinbahizi)
+[![image](https://img.shields.io/badge/Twitter-333c42?style=for-the-badge&logo=x&logoColor=e1ff01)](https://x.com/jospinbahizi)
 
 
 Software developer with advanced hands-on experience in designing and developing intuitive user interfaces. Committed to developing secure and enjoyable applications that add value to business operations.
