@@ -7,7 +7,7 @@
 [![image](https://img.shields.io/badge/Twitter-333c42?style=for-the-badge&logo=x&logoColor=e1ff01)](https://x.com/jospinbahizi)
 
 
-Software developer with advanced hands-on experience in designing and developing intuitive user interfaces. Committed to developing secure and enjoyable applications that add value to business operations.
+Software solutions engineer with advanced hands-on experience in designing and developing intuitive user interfaces. Committed to developing secure and enjoyable applications that add value to business operations.
 
 🔭 Currently working as a fulltime Junior AI Engineer [<small>@</small>truststamp](https://truststamp.net) <br>
 🌱 Researching on opportunities in smart road traffic crashes management & transportation systems [<small>@</small>AutoRTC-DMS](http://autortc.rw/) <br>
@@ -18,9 +18,6 @@ Software developer with advanced hands-on experience in designing and developing
 <img src="https://github-readme-stats.vercel.app/api?username=jospinbahizi&show_icons=true&hide_border=true&theme=nord&inlude_all_commits=true&count_private=true&show_owner=true&bg_color=333c42&title_color=e1ff01&icon_color=e1ff01&border_radius=4.5" height="150">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jospinbahizi&layout=compact&show_icons=true&hide_border=true&theme=nord&inlude_all_commits=true&count_private=true&show_owner=true&size_weight=0&count_weight=1&bg_color=333c42&title_color=e1ff01&icon_color=e1ff01&border_radius=4.5" height="150">
 </div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🛠 &nbsp;Languages &amp; Tools
 ![Python Badge](https://img.shields.io/badge/Python-333C42?logo=python&logoColor=e1ff01&style=flat)&nbsp;
