@@ -13,7 +13,7 @@ Work Experience: <br><br>
 🛠  Senior Applications Engineer [<small>@</small>Sanlam Allianz Life Plc](https://rw.sanlamallianz.com) <br>
 🔭 Software Developer & Jr AI Engineer [<small>@</small>Trust Stamp](https://truststamp.net) <br>
 🌱 Software Engineer & Research Assistant in smart road traffic crashes management & transportation systems [<small>@</small>AutoRTC-DMS](http://autortc.rw/) <br>
-👯 Product Development Manager [<small>@</small>rootbit](http://rootbit.rw)
+👯 Products Development [<small>@</small>rootbit](http://rootbit.rw)
 
 ## 🚀 &nbsp; GitHub Stats 
 <div>
