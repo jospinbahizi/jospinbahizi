@@ -10,10 +10,10 @@
 Software solutions engineer with advanced hands-on experience in designing and developing intuitive user interfaces. Committed to developing secure and enjoyable applications that add value to business operations.
 
 Work Experience: <br><br>
-🛠  Senior Applications Engineer [<small>@</small>Sanlam Allianz Life Plc](https://rw.sanlamallianz.com) <br>
-🔭 Software Developer & Jr AI Engineer [<small>@</small>Trust Stamp](https://truststamp.net) <br>
-🌱 Software Engineer & Research Assistant in smart road traffic crashes management & transportation systems [<small>@</small>AutoRTC-DMS](http://autortc.rw/) <br>
-👯 Products Development [<small>@</small>rootbit](http://rootbit.rw)
+🛠 Software Developer & Jr AI Engineer [<small>@</small>Trust Stamp](https://truststamp.net) <br>
+🛠 Senior Applications Engineer [<small>@</small>Sanlam Allianz Life Plc](https://rw.sanlamallianz.com) <br>
+🛠 Software Engineer & Research Assistant in smart road traffic crashes management & transportation systems [<small>@</small>AutoRTC-DMS](http://autortc.rw/) <br>
+🛠 Products Development [<small>@</small>rootbit](http://rootbit.rw)
 
 ## 🚀 &nbsp; GitHub Stats 
 <div>
